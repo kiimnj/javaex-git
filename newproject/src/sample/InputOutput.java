@@ -27,5 +27,6 @@ public class InputOutput {
     System.out.println("b1 = " + b1); // true
     System.out.println("b2 = " + b2); // true
 
+    // 커밋 수정 실험
   }
 }
