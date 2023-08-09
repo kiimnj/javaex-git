@@ -1,2 +1,2 @@
 # javaex-git
-## git intelij example
+## git intellij example
