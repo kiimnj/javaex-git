@@ -26,4 +26,8 @@ public class Circle {
       this.radius = radius; // 전역 변수명과 같아서 radius = radius;는 불가
     }
   }
+
+  public double change() {
+    return radius++;
+  }
 }
