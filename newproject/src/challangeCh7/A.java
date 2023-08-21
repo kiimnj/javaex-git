@@ -1,4 +1,4 @@
-package chapter07;
+package challangeCh7;
 
 public interface A {
   void method1();

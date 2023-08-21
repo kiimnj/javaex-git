@@ -12,8 +12,8 @@ public class WhileEx {
       if (bio.equals("종료")) break;
       bio = in.next();
       switch (bio) {
-        case "호랑이", "사자" -> kind = "포유류";
-        default -> kind = "해당없음";
+//        case "호랑이", "사자" -> kind = "포유류"; 자바 14부터
+//        default -> kind = "해당없음"; 자바 14부터
       }
       System.out.printf("%s는 %s입니다.\n", bio, kind);
     }

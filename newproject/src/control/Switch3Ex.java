@@ -40,8 +40,7 @@ public class Switch3Ex {
     kind = "";
 
     switch (bio) {
-      case "호랑이", "사자" -> kind = "포유류";
-
+//      case "호랑이", "사자" -> kind = "포유류"; 자바 14부터
     }
   }
 }
